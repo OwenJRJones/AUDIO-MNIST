@@ -13,6 +13,16 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.description {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.foot-note {
+	margin-top: 80px;
+	font-size: small;
+}
+
 a {
 	font-weight: 500;
 	color: #646cff;
